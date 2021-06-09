@@ -19,7 +19,7 @@ python2 DX.so
 ```
 ##SCREENSHOT##
 <p align="center">
- <img src="https://github.com/MRVIVEK-CODER/XD/blob/main/Screenshot_20210608-174014.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/Screenshot_20210609-115721.jpg" width="640" title="Menu" alt="Menu">
  
 <p align="center">
  <img src="LOLX" width="640" title="Menu" alt="Menu">

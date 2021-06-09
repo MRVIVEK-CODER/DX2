@@ -15,7 +15,7 @@ pip install lolcat
 rm -rf DX2
 git clone https://github.com/MRVIVEK-CODER/DX2.git
 cd DX2
-python2 DX2.so
+python2 DX.so
 ```
 ##SCREENSHOT##
 <p align="center">

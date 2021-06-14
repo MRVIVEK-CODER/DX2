@@ -44,7 +44,7 @@ python2 DX.so
 ### CLONING ###
 
 <p align="center">
- <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/Screenshot_20210609-115721.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/IMG-20210612-WA0175.jpg" width="640" title="Menu" alt="Menu">
  
  
 ## WARNING : 

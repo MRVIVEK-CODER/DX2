@@ -34,12 +34,19 @@ cd DX2
 python2 DX.so
 
 
-##SCREENSHOT##
+##MENU##
 
 
 <p align="center">
  <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/Screenshot_20210609-115721.jpg" width="640" title="Menu" alt="Menu">
-  
+ 
+
+### CLONING ###
+
+<p align="center">
+ <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/Screenshot_20210609-115721.jpg" width="640" title="Menu" alt="Menu">
+ 
+ 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 ## Follows us on social media

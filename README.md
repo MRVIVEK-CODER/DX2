@@ -1,6 +1,7 @@
 # DX2
-````
- <p align="center">
+
+
+
 ![made in india](https://img.shields.io/badge/MADE%20IN%20-INDIA-green?style=for-the-badge&logo=appveyor)
 ![Vivek Chandel](https://img.shields.io/badge/Vivek%20-Chandel-green?style=for-the-badge&logo=appveyor)
  

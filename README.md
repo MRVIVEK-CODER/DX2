@@ -10,16 +10,27 @@
 
  
 pkg update
+
 pkg upgrade
+
 pkg install git
+
 pkg install python
+
 pkg install python2 
+
 pip2 install requests
+
 pip2 install mechanize
+
 pip install lolcat
+
 rm -rf DX2
+
 git clone https://github.com/MRVIVEK-CODER/DX2.git
+
 cd DX2
+
 python2 DX.so
 
 

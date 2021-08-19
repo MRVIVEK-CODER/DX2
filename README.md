@@ -33,6 +33,12 @@ cd DX2
 
 python2 DX.so
 
+## Example ##
+
+<p align="center">
+ <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/IMG-20210819-WA0001.jpg" width="640" title="Menu" alt="Menu">
+
+
 
 ##MENU##
 
